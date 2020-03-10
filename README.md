@@ -4,7 +4,7 @@
 
 ## Link To Deployed Site
 
-[Updated Portfolio](file:///Users/hamzaabdikarim/Desktop/Updated-Portfolio/index.html).
+[Updated Portfolio](https://hamzaaaabdikarim33.github.io/Updated-Portfolio/).
 
 ## Overview
 
