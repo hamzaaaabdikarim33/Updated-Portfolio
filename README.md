@@ -4,7 +4,7 @@
 
 ## Link To Deployed Site
 
-[Updated Portfolio](https://missjody.github.io/UpdatedPortfolio/).
+[Updated Portfolio](file:///Users/hamzaabdikarim/Desktop/Updated-Portfolio/index.html).
 
 ## Overview
 
